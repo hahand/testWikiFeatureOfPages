@@ -15,6 +15,7 @@
 		CED73F422728DBAC00E820E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED73F412728DBAC00E820E9 /* Assets.xcassets */; };
 		CED73F452728DBAC00E820E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED73F432728DBAC00E820E9 /* LaunchScreen.storyboard */; };
 		CED73F4F2728E2A500E820E9 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = CED73F4E2728E2A500E820E9 /* User.m */; };
+		CED73F512728E6C400E820E9 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED73F502728E6C400E820E9 /* Animal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CED73F4C2728E2A500E820E9 /* TestWikiFeatureOfPages-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestWikiFeatureOfPages-Bridging-Header.h"; sourceTree = "<group>"; };
 		CED73F4D2728E2A500E820E9 /* User.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
 		CED73F4E2728E2A500E820E9 /* User.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
+		CED73F502728E6C400E820E9 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				CED73F382728DBAA00E820E9 /* AppDelegate.swift */,
 				CED73F3A2728DBAA00E820E9 /* SceneDelegate.swift */,
 				CED73F3C2728DBAA00E820E9 /* ViewController.swift */,
+				CED73F502728E6C400E820E9 /* Animal.swift */,
 				CED73F4D2728E2A500E820E9 /* User.h */,
 				CED73F4E2728E2A500E820E9 /* User.m */,
 				CED73F3E2728DBAA00E820E9 /* Main.storyboard */,
@@ -218,6 +221,7 @@
 				CED73F3D2728DBAA00E820E9 /* ViewController.swift in Sources */,
 				CED73F392728DBAA00E820E9 /* AppDelegate.swift in Sources */,
 				CED73F3B2728DBAA00E820E9 /* SceneDelegate.swift in Sources */,
+				CED73F512728E6C400E820E9 /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
